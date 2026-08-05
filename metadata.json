@@ -1,0 +1,10 @@
+{
+  "name": "Ask Nova",
+  "description": "Multi-domain AI FAQ Chatbot providing answers across geography, education, coding, finance, tech, and general knowledge.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
